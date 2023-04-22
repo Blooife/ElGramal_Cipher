@@ -1,0 +1,11 @@
+C:\Users\Asus\RiderProjects\labTi3\labTi3\bin\Debug\labTi3.exe.config
+C:\Users\Asus\RiderProjects\labTi3\labTi3\bin\Debug\labTi3.exe
+C:\Users\Asus\RiderProjects\labTi3\labTi3\bin\Debug\labTi3.pdb
+C:\Users\Asus\RiderProjects\labTi3\labTi3\obj\Debug\labTi3.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\labTi3\labTi3\obj\Debug\labTi3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\RiderProjects\labTi3\labTi3\obj\Debug\labTi3.Properties.Resources.resources
+C:\Users\Asus\RiderProjects\labTi3\labTi3\obj\Debug\labTi3.csproj.GenerateResource.cache
+C:\Users\Asus\RiderProjects\labTi3\labTi3\obj\Debug\labTi3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\labTi3\labTi3\obj\Debug\labTi3.exe
+C:\Users\Asus\RiderProjects\labTi3\labTi3\obj\Debug\labTi3.pdb
+C:\Users\Asus\RiderProjects\labTi3\labTi3\obj\Debug\labTi3.Form1.resources
